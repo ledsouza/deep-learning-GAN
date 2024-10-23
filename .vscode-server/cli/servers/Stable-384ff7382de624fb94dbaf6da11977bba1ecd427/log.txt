@@ -1,0 +1,36 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-45272cc6-12d6-4025-8aa4-7a3e2efb3a1a
+Extension host agent listening on /tmp/code-45272cc6-12d6-4025-8aa4-7a3e2efb3a1a
+
+[13:20:23] 
+
+
+
+
+[13:20:23] Extension host agent started.
+[13:20:23] Started initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+[13:20:23] Completed initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+[13:20:24] [<unknown>][8bfc78a8][ExtensionHostConnection] New connection established.
+[13:20:24] [<unknown>][d4d69160][ManagementConnection] New connection established.
+[13:20:24] [<unknown>][8bfc78a8][ExtensionHostConnection] <5715> Launched Extension Host Process.
+[13:20:45] [<unknown>][d4d69160][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:20:45] [<unknown>][8bfc78a8][ExtensionHostConnection] <5715> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:20:45] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:20:45] Last EH closed, waiting before shutting down
+[13:20:48] [<unknown>][77f44477][ManagementConnection] New connection established.
+[13:20:48] [<unknown>][b83175c1][ExtensionHostConnection] New connection established.
+[13:20:48] [<unknown>][b83175c1][ExtensionHostConnection] <6042> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[13:25:45] New EH opened, aborting shutdown
+[13:25:49] [<unknown>][77f44477][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:25:50] [<unknown>][b83175c1][ExtensionHostConnection] <6042> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[13:25:50] Last EH closed, waiting before shutting down
